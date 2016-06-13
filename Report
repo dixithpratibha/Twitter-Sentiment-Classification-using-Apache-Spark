@@ -13,6 +13,7 @@ Domain Introduction
 
 Analyzing tweet sentiments comes under the domain of “Pattern Classification” and “Data Mining”. The process of finding "useful" patters can be done using Supervised or Unsupervised learning methods. In supervised learning, the output datasets are provided which are used to train the machine and get the desired outputs whereas in unsupervised learning no datasets are provided, instead the data is clustered into different classes .Here , we are making use of “Machine Learning” techniques such as Naive Bayes, Logistic Regression, and Decision Tree for accurately classifying the given test data according to whichever pattern model best describes them.
 
+
 The Apache Spark Setup
 • Install Apache Spark 1.6.1 
 • Install nltk for the purpose of Porterstemmer 
